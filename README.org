@@ -7,3 +7,4 @@ A Common Lisp DEFCLASS* for less boilerplate
 | commit  | e376d47                                                                                                          |
 | systems | hu.dwim.defclass-star hu.dwim.defclass-star+contextl hu.dwim.defclass-star+hu.dwim.def+contextl hu.dwim.defclass-star+hu.dwim.def hu.dwim.defclass-star+swank |
 |---------+------------------------------------------------------------------------------------------------------------------|
+ 
